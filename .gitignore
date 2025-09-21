@@ -1,0 +1,32 @@
+﻿# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+/temp/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Runtime files
+*.pid
+*.sock
+
+# Backup files
+*.bak
+*.backup
+
+# Test artifacts
+/test-results/
+/coverage/
